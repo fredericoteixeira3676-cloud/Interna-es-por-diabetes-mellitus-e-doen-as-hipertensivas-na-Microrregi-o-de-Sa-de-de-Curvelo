@@ -1,0 +1,24 @@
+ Morbidade Hospitalar do SUS - por local de residência - Minas Gerais
+Internações por Município e Ano processamento
+Município: 310480 AUGUSTO DE LIMA, 310920 BUENOPOLIS, 311910 CORINTO, 312090 CURVELO, 312570 FELIXLANDIA, 313110 INIMUTABA, 314250 MONJOLOS, 314360 MORRO DA GARCA, 315320 PRESIDENTE JUSCELINO, 316060 SANTO HIPOLITO, 316935 TRES MARIAS
+Lista Morb  CID-10: Diabetes mellitus
+Período:Jan/2008-Ago/2026
+"Município";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024";"2025";"2026";"Total"
+"310480 AUGUSTO DE LIMA";-;6;-;1;1;2;1;2;5;3;2;2;2;1;3;2;8;3;7;51
+"310920 BUENOPOLIS";3;4;1;3;7;1;3;4;-;1;2;1;4;2;5;6;9;3;-;59
+"311910 CORINTO";10;13;6;15;6;5;9;7;11;9;4;10;12;18;28;26;28;17;19;253
+"312090 CURVELO";86;67;50;72;52;47;67;52;50;34;18;34;54;93;76;68;72;95;71;1158
+"312570 FELIXLANDIA";2;2;2;5;2;5;4;3;3;2;1;2;2;7;10;13;6;9;7;87
+"313110 INIMUTABA";2;5;5;4;4;4;3;3;-;3;4;2;-;3;11;12;4;7;4;80
+"314250 MONJOLOS";1;-;-;-;1;-;3;-;-;-;-;-;3;1;1;1;1;-;-;12
+"314360 MORRO DA GARCA";8;3;2;3;-;1;3;1;-;-;1;1;1;1;1;2;2;5;1;36
+"315320 PRESIDENTE JUSCELINO";2;1;3;1;2;1;1;2;3;-;-;-;-;6;1;2;4;2;1;32
+"316060 SANTO HIPOLITO";-;5;1;-;3;4;3;-;-;1;-;-;1;3;-;6;2;4;1;34
+"316935 TRES MARIAS";29;12;38;20;28;18;21;26;20;22;18;14;15;27;35;12;19;33;31;438
+"Total";143;118;108;124;106;88;118;100;92;75;50;66;94;162;171;150;155;178;142;2240
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a atualização.
+ 
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

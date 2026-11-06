@@ -1,0 +1,24 @@
+ Morbidade Hospitalar do SUS - por local de residência - Minas Gerais
+Dias permanência por Município e Ano processamento
+Município: 310480 AUGUSTO DE LIMA, 310920 BUENOPOLIS, 311910 CORINTO, 312090 CURVELO, 312570 FELIXLANDIA, 313110 INIMUTABA, 314250 MONJOLOS, 314360 MORRO DA GARCA, 315320 PRESIDENTE JUSCELINO, 316060 SANTO HIPOLITO, 316935 TRES MARIAS
+Lista Morb  CID-10: Hipertensão essencial (primária), Outras doenças hipertensivas
+Período:Jan/2008-Ago/2026
+"Município";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024";"2025";"2026";"Total"
+"310480 AUGUSTO DE LIMA";44;3;10;10;-;5;-;7;4;1;-;32;7;5;-;16;-;-;-;144
+"310920 BUENOPOLIS";29;9;2;26;10;3;3;-;8;15;-;-;-;4;-;1;20;-;-;130
+"311910 CORINTO";40;38;18;47;42;23;13;7;23;8;4;59;15;25;29;56;10;10;-;467
+"312090 CURVELO";274;252;128;195;252;89;73;82;263;128;42;152;90;60;170;111;84;68;41;2554
+"312570 FELIXLANDIA";10;10;6;8;7;26;3;9;21;-;-;14;-;-;15;18;-;32;-;179
+"313110 INIMUTABA";2;7;9;22;6;4;12;-;9;12;9;-;2;6;-;-;3;3;-;106
+"314250 MONJOLOS";-;-;-;2;-;-;5;-;1;-;7;-;-;-;-;11;-;-;-;26
+"314360 MORRO DA GARCA";6;16;8;-;-;-;2;-;-;12;-;-;6;-;5;-;-;-;1;56
+"315320 PRESIDENTE JUSCELINO";15;5;4;14;-;7;-;-;-;2;-;-;-;-;-;5;-;-;-;52
+"316060 SANTO HIPOLITO";22;-;6;11;8;4;-;2;-;6;11;-;-;2;17;3;-;-;-;92
+"316935 TRES MARIAS";62;61;17;39;32;22;19;24;68;45;31;25;36;29;17;8;29;18;61;643
+"Total";504;401;208;374;357;183;130;131;397;229;104;282;156;131;253;229;146;131;103;4449
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a atualização.
+ 
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.

@@ -1,0 +1,7 @@
+Sites tabnet 
+
+Senso: https://tabnet.datasus.gov.br/cgi/tabcgi.exe?ibge/cnv/poptmg.def
+
+https://tabnet.datasus.gov.br/cgi/tabcgi.exe?ibge/cnv/popt2024br.def
+
+Saúde: https://tabnet.datasus.gov.br/cgi/tabcgi.exe?sih/cnv/nrmg.def
